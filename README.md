@@ -5,7 +5,10 @@
 
 - 📫 How to reach me **ntienthanh181@gmail.com**
 
-- 📄 Know about my experiences [ntienthanh.com](ntienthanh.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ntienthanh/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ntienthanh181/) [![Mail](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png) Mail](ntienthanh181@gmail.com)
+
+
+- 📄 Know about my experiences [ntienthanh.com](https://ntienthanh.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

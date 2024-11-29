@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Tien Thanh. I am a Software Engineer.<br>
 
-👨‍💻 My Portfolio [ntienthanh.com](ntienthanh.com)
+👨‍💻 My Portfolio [ntienthanh.com]([ntienthanh.com](https://ntienthanh.com/))
 
 <h3 align="left">📫 Connect with me: </h3> 
 

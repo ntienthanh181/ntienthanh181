@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Tien Thanh. I am an Software Engineer, majoring in Website Development and Artificial Intelligence.<br>
+My name is Tien Thanh. I am an Software Engineer.<br>
 
 
 <h2 align="left">📫 Connect with me: </h2> 

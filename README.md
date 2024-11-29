@@ -4,26 +4,7 @@ My name is Tien Thanh. I am an Software Engineer.<br>
 
 <h2 align="left">📫 Connect with me: </h2> 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ntienthanh/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ntienthanh181/) [![My Website](https://github.com/ntienthanh181/aboutme/blob/main/favicon.ico/favicon-16x16.png?raw=true) My Website](https://ntienthanh.com/)
 
-![](https://github-readme-stats.vercel.app/api?username=ntienthanh181&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=ntienthanh181&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ntienthanh181&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntienthanh181&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntienthanh181&label=Profile%20views&color=0e75b6&style=flat" alt="ntienthanh181" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntienthanh181" alt="ntienthanh181" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **ntienthanh181@gmail.com**
-
-- 📄 Know about my experiences [ntienthanh.com](ntienthanh.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

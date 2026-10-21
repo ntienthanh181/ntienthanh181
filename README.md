@@ -6,11 +6,9 @@ My name is Vu Nguyen. I am a Cloud Engineer Student.<br>
 
 <h3 align="left">📫 Connect with me: </h3> 
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ntienthanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ntienthanh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ntienthanh181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ntienthanh181" height="30" width="40" /></a>
-<a href="https://instagram.com/ntienthanh.travel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ntienthanh.travel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ntienthanh.181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ntienthanh.181" height="30" width="40" /></a>
+
 
 </p>
 

@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Tien Thanh. I am a Software Engineer.<br>
+My name is Vu Nguyen. I am a Cloud Engineer Student.<br>
 
 👨‍💻 My Portfolio [ntienthanh.com](https://ntienthanh.com/)
 

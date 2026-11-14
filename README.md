@@ -1,7 +1,5 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Vu Nguyen. I am a Cloud Engineer Student.<br>
-
-👨‍💻 My Portfolio [ntienthanh.com](https://ntienthanh.com/)
+### HI, I'M VU NGUYEN! 👋
+I'm an IT student at the UTS, focusing on Cloud Computing, AWS Infrastructure and DevOps. I'm passionate about building, deploying and managing cloud-based solutions while continuously developing my skills in cloud technologies and automation.<br>
 
 
 <h3 align="left">📫 Connect with me: </h3> 

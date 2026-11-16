@@ -1,4 +1,4 @@
-### HI, I'M VU NGUYEN! 👋
+### HI, I'M VU! 👋
 I'm an IT student at the UTS, focusing on Cloud Computing, AWS Infrastructure and DevOps. I'm passionate about building, deploying and managing cloud-based solutions while continuously developing my skills in cloud technologies and automation.<br>
 
 
